@@ -1,0 +1,6 @@
+        Js-Class-19
+
+        Javascript 
+
+            
+    //  Task - 6  Write a Program that will Print sum of all the Numbers that are divisible by 3 and 5 from 1-100 .
